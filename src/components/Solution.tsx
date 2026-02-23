@@ -7,37 +7,37 @@ const teamMembers = [
         role: "CEO スティーブ・ジョブズ",
         description: "「それは世界を変えるか？」 妥協なきUXとプロダクトの総指揮",
         icon: <Briefcase size={24} />,
-        image: "/steve.png"
+        image: "./steve.png"
     },
     {
         role: "CMO 孫子",
         description: "「戦わずして勝つ」 圧倒的データに基づく無敗の市場戦略",
         icon: <LineChart size={24} />,
-        image: "/sun_tzu.png"
+        image: "./sun_tzu.png"
     },
     {
         role: "CCO デイヴィッド・オグルヴィ",
         description: "「売れない広告はゴミだ」 顧客の心を動かすクリエイティブ",
         icon: <PenTool size={24} />,
-        image: "/ogilvy.png"
+        image: "./ogilvy.png"
     },
     {
         role: "CIO イーロン・マスク",
         description: "第一原理に基づく、極限まで無駄を削ぎ落とした超効率化システム",
         icon: <Terminal size={24} />,
-        image: "/musk.png"
+        image: "./musk.png"
     },
     {
         role: "CQAO 豊田喜一郎",
         description: "「不良品は通さない」 異常を検知し即座に修正する品質の砦",
         icon: <ShieldCheck size={24} />,
-        image: "/toyoda.png"
+        image: "./toyoda.png"
     },
     {
         role: "CKO アリストテレス",
         description: "全プロジェクトの学びを永遠の資産へと変える知の番人",
         icon: <BookOpen size={24} />,
-        image: "/aristotle.png"
+        image: "./aristotle.png"
     }
 ];
 
